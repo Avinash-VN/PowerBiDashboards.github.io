@@ -1,4 +1,4 @@
-### Project Overview
+# Project Overview
 
 The Dataline Bike Company Power BI Dashboard project aims to transition the company's reporting from manual PDF and Excel formats to an interactive and comprehensive Power BI dashboard. This dashboard is designed to meet the needs of two primary user groups: the CEO and managers, and the Marketing and Products team.
 
@@ -55,5 +55,3 @@ The Dataline Bike Company Power BI Dashboard project aims to transition the comp
 
 #### Conclusion:
 This Power BI dashboard provides a comprehensive solution for the Dataline Bike Company, enabling efficient reporting and insightful analysis to support strategic decision-making.
-
-Feel free to ask if you need more details or have any specific questions! 😊
